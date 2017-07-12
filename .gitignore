@@ -47,9 +47,7 @@ Temporary Items
 .apdisk
 
 
-# File extensions
-.ctxt
-.class
-
-# Editor
-.bluej
+# Editor and class files
+*.bluej
+*.ctxt
+*.class
